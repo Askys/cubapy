@@ -6,7 +6,7 @@ setup(
     ],
     data_files=[('licenses', ['MIT']), ('README', ['README.md'])],
     install_requires=[
-        'numpy'
+        'numpy',
         'plotly'
     ]
 )
