@@ -1,0 +1,5 @@
+numpy
+plotly<=5.10.0
+
+setuptools
+wheel

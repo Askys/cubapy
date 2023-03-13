@@ -1,0 +1,16 @@
+LICENSE
+MIT
+README.md
+setup.cfg
+setup.py
+cubapy/__init__.py
+cubapy/line.py
+cubapy/plot.py
+cubapy/tet.py
+cubapy/tri.py
+cubapy.egg-info/PKG-INFO
+cubapy.egg-info/SOURCES.txt
+cubapy.egg-info/dependency_links.txt
+cubapy.egg-info/not-zip-safe
+cubapy.egg-info/requires.txt
+cubapy.egg-info/top_level.txt
